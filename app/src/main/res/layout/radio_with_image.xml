@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <RadioButton
+        android:id="@+id/radioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawablePadding="80dp"
+        android:layout_gravity="center_vertical"
+        android:tag="male"
+        android:button="@drawable/custom_radio_btn"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="15dp"
+        android:src="@drawable/man"
+        android:layout_margin="8dp"/>
+
+    <!-- Add an ImageView for the selected state indicator -->
+
+</LinearLayout>

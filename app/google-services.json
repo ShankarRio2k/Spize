@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021930546005",
+    "firebase_url": "https://spizy-58ff8-default-rtdb.firebaseio.com",
+    "project_id": "spizy-58ff8",
+    "storage_bucket": "spizy-58ff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021930546005:android:1faf4f19c461e2e40705dc",
+        "android_client_info": {
+          "package_name": "com.rios.spize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021930546005-mfpmafgs89n83rm3ij7g788u08a8565h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rios.spize",
+            "certificate_hash": "558abe44f3710b17bcae1bfd85ef2d3d3c73a721"
+          }
+        },
+        {
+          "client_id": "1021930546005-nj8cva5bn8i6ctd06v5fq9pj2aoakbhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD94-SbtAc2k9HajtIWjtUCe-N8NsdGppc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021930546005-nj8cva5bn8i6ctd06v5fq9pj2aoakbhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spize</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="client_id">1021930546005-nj8cva5bn8i6ctd06v5fq9pj2aoakbhl.apps.googleusercontent.com</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+    <!-- Strings used for fragments for navigation -->
+</resources>
