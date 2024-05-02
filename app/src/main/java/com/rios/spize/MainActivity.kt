@@ -5,10 +5,13 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import com.google.firebase.FirebaseApp
 import com.google.firebase.auth.FirebaseAuth
+import com.rios.spize.activity.DashboardActivity
 import com.rios.spize.activity.IntroActivity
 import com.rios.spize.activity.LoginActivity
 import com.rios.spize.databinding.ActivityMainBinding
+import com.rios.spize.model.UserData
 
 class MainActivity : AppCompatActivity() {
 

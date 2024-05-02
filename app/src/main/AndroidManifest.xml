@@ -22,6 +22,10 @@
             android:exported="false" />
 
         <activity
+            android:name=".activity.DashboardActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
