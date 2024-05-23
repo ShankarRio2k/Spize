@@ -64,10 +64,11 @@ class IntroActivity : AppCompatActivity() {
                 if (userData != null) {
                     setUserData(userData)
                 } else {
+                    val id = currentUser.uid
                     val userName = intent.getStringExtra("userName")
                     val profileImageUriString = intent.getStringExtra("profileImageUri")
                     val userMail = intent.getStringExtra("userMail")
-                    val userData = UserData(userName, userMail, profileImageUriString)
+                    val userData = UserData(id,userName, userMail, profileImageUriString)
                     setUserData(userData)
 
                     saveUserDataToFirebase(userId, userData)

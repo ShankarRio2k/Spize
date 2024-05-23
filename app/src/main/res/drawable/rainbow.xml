@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rainbow_gradient.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="135"
+        android:startColor="#FFCDD2"
+    android:centerColor="#FFCCBC"
+    android:endColor="#F48FB1"
+    android:type="linear" />
+</shape>
+
+
